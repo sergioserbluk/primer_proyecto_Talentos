@@ -9,22 +9,22 @@
     <div class="carousel-item active">
       <img width="450px"  src="assets/img/corrientes.jfif" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>First slide label</h5>
-        <p>Some representative placeholder content for the first slide.</p>
+        <h5>Corrientes</h5>
+        <p>Intensa de principio a fin.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img width="450px" src="assets/img/costanera.jfif" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Second slide label</h5>
-        <p>Some representative placeholder content for the second slide.</p>
+        <h5>Corrientes</h5>
+        <p>Atodo color.</p>
       </div>
     </div>
     <div class="carousel-item">
       <img src="assets/img/puentecostanera.jfif" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Third slide label</h5>
-        <p>Some representative placeholder content for the third slide.</p>
+        <h5>Corrientes</h5>
+        <p>Para descansar.</p>
       </div>
     </div>
   </div>
@@ -58,6 +58,27 @@
   <div class="card-body">
     <h5 class="card-title">Sol agua y arena</h5>
     <p class="card-text">En verano las hermosas playas de arena a la vera de nuestros ríos y lagunas esperan las descubras</p>
+    <a href="#" class="btn btn-primary">ver mas</a>
+  </div>
+</div>
+  <!-- tarjetas con imagenes -->
+ 
+  <!-- tarjetas con imagenes Religión -->
+  <div class="card" style="width: 18rem;">
+  <img src="assets/img/BASILICA-itati.jpg" class="card-img-top" alt="Religión">
+  <div class="card-body">
+    <h5 class="card-title">Corrientes Religiosa</h5>
+    <p class="card-text"> Corrientes es una provincia de fé, que conforma un circuito religioso que convoca a fieles de toda la provincia y del país en ocasión de renovar la fe, pedir y dar gracias.</p>
+    <a href="#" class="btn btn-primary">ver mas</a>
+  </div>
+</div>
+  <!-- tarjetas con imagenes -->
+  <!-- tarjetas con imagenes Musica -->
+  <div class="card" style="width: 18rem;">
+  <img src="assets/img/chamame.jfif" class="card-img-top" alt="Chamame">
+  <div class="card-body">
+    <h5 class="card-title">Nuestra Música</h5>
+    <p class="card-text"> Herencia correntina, expresión que se canta, se baila y cuando la emoción desborda, nace el grito sagrado del “sapucay”.</p>
     <a href="#" class="btn btn-primary">ver mas</a>
   </div>
 </div>

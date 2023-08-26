@@ -32,7 +32,7 @@ class Home extends BaseController
     {
         echo view('front/head_view');
         echo view('front/navbar_view');
-        echo view('front/registro_view');
+        echo view('front/registro');
         echo view('front/footer_view');
         //return view('front/principal_ultimo');
     }

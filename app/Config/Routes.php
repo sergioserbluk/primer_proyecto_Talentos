@@ -32,7 +32,7 @@ $routes->set404Override();
 $routes->get('/', 'Home::index');
 $routes -> get('/quienes_somos', 'Home::quienes_somos');
 $routes -> get('/acerca_de', 'Home::acerca_de');
-$routes -> get('/registro_view', 'Home::registro');
+$routes -> get('/registro', 'Home::registro');
 $routes -> get('/login', 'Home::login');
 //$routes -> get('/principal_ultimo', 'Home::principal_ultimo');
 $routes -> get('/principal', 'Home::index');

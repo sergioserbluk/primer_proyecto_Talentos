@@ -1,29 +1,33 @@
-<section class="container">
+<section class="container bg-light">
 <div class="py-5 fw-bold h1 text-center"
 style="color: var(--bs-info-text-emphasis); text-decoration: underline">OBJETIVO GENERAL</div>
 <div class="py-3 h5" style="color: black">
 <p class="text-justify">
-      Esta página web pretende mantener vivos los recuerdos de épocas pasadas, especialmente la de los años
-      '80, a través de la música. Prince, "AC/DC", Whitney Houston, Rick Astley, David Bowie, Madonna,
-      "Scorpions", así como las grandes bandas argentinas como "Los abuelos de la nada", "Virus", "Los Twits",
-      "Patricio Rey y sus Redonditos de Ricota", "Soda Stereo", y tantas otras bandas y solistas nacionales
-      como internacionales, que tendrán como objetivo llevarte a vivir recuerdos de tu infancia/adolescencia.
+      Corrientes es una de las provincias de Argentina con mayores atractivos naturales. Sus maravillosos
+      paisajes invitan, a cada una de las personas que la visitan, a recorrerlas una y otra vez para luego
+      volver a hacerlo como aquella la primera vez. Sin dudas, para cada correntino es un orgullo que
+      Corrientes tenga tantos y tantos puntos turísticos y es por eso que, con esta página web, hemos
+      decidido mostrar algunos de ellos para que no dudes en volver a visitarlos, o lo hagas en caso de
+      que nunca lo hayas hecho. 
 </p>
 <p class="text-justify">
-      Mediante grandes hits que marcaron un antes y un después en la historia de la música mundial, estarán 
-      a tu disposición "playlists" según sus géneros, años de lanzamiento, así como una especial en la que
-      solo tendrá música argentina, denominada "nacionales". Estas listas podrás modificarlas según tus gustos,
-      así como tendrás la posibilidad de crear una nueva (o tantas como quieras) con las canciones que más
-      te gusten. Si no tienes preferencias y solo quieres escuchar un "popurrí" de estos años, en el inicio
-      de nuestra página te encontrarás con la opción de "aleatorios", en la cual irán pasando canciones de 
-      manera aleatoria.
+      La provincia de Corrientes está ubicada en el Nordeste del país, su clima cálido ayuda a que sus
+      playas sean uno de los puntos más fuertes y visitados de todo el territorio. Algo que queda claro es
+      que la capital es la zona con más visitas a la hora de comparar con el resto de los departamentos
+      que la componen, pero esta página web no solamente pretende mostrar una foto de la encantadora
+      costanera y sus siempre coloridos atardeceres, sino que ofrece una variedad de ciudades, pueblos y
+      lugares que, tal vez, no son tan conocidos por todos por encontrarse en el interior. De esta manera,
+      a través de videos e imágenes te mostraremos un poquito de la inmensidad de paisajes que ofrece la
+      provincia para sus visitantes.
 </p>
 <p class="text-justify">
-      Si querés saber más sobre tu banda o artista favorito, nuestra página te ofrece una sección en la
-      que encontrarás información sobre ellos. Su actualidad (en caso de tenerla), las canciones que le
-      pertenecen y, por su puesto, su historia. Aquí también tendrás links que te llevarán a páginas
-      externas para que puedas seguir leyendo e informándote de todo lo que te interese.
-</p>
+      Por otro lado, el hecho de que esta página web esté dirigida a personas que no residen en la provincia,
+      no se dejará de lado a los correntinos que residan en la capital. A través de pequeñas publicaciones
+      (que apuntarán a ser lo más concisas y detalladas posibles) estaremos informando permanentemente
+      acerca de los eventos que se desarrollen en la capital, así como también en las ciudades del interior.
+      Un boletín semanal estará acercándote las novedades más importantes de la ciudad que se llevarán a
+      cabo durante esos próximos días. Su actualización será constante para que no te pierdas absolutamente
+      nada.
 <p class="text-justify">
       Si tenés sugerencias o comentarios sobre nuestro trabajo, te dejamos nuestras redes sociales acá
       abajo para que nos sigas y así podamos seguir haciendo crecer la comunidad. ¡Muchas gracias!
@@ -31,4 +35,4 @@ style="color: var(--bs-info-text-emphasis); text-decoration: underline">OBJETIVO
 </p>
 </div>
      
-</section>
+      </section>
