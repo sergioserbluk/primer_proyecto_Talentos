@@ -1,4 +1,8 @@
-<section class="bg-light" >
+<!-- agrego h1 con titulo -->
+<h1 class="text-center fuente2">Registro de Usuario</h1>
+<!-- agregue la clase container-md y my-4 -->
+<section class="bg-light container-md y my-4" >
+<!-- agregue la clase container-md y my-4 -->
 <form>
   <div class="mb-3">
     <label for="InputNombres" class="form-label">Nombres</label>
@@ -15,10 +19,6 @@
   <div class="mb-3">
     <label for="InputContraseña" class="form-label">Contraseña</label>
     <input type="password" class="form-control" id="InputContraseña">
-  </div>
-  <div class="mb-3 form-check">
-    <input type="checkbox" class="form-check-input" id="Check">
-    <label class="form-check-label" for="Check">Check me out</label>
   </div>
   <button type="submit" class="btn btn-primary">Enviar</button>
 </form>

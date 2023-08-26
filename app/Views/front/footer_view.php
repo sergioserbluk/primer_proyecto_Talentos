@@ -7,7 +7,8 @@
             <li><a href="https://www.youtube.com/"><img class="ico" src="assets/img/ytlogo.png" alt=" <i class='fa fa-youtube'>youtube</i>"></a></li>
             <li><a href="https://www.twitter.com/"><img class="ico" src="assets/img/twlogo.jpg" alt=" <i class='fa fa-twitter'>Twitter</i>"></a></li>
         </ul>
-        <br>
+        
+        
         derechos reservados &copy; 2023 | Serbluk Sergio, Acevedo David, Sotelo Enzo,
 
     </div>

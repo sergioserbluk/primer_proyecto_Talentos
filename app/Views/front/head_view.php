@@ -6,8 +6,13 @@
     <title>Corrientes soñadora</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/estilos.css">
+    <!--agrego fuente de google-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <!--fin fuente de google-->
     <header>
-        <h1>Bienvenidos a Corrientes</h1>
+        <h1 class="fuente pl-3 mx-4 my-4">Bienvenidos a Corrientes</h1>
     </header>
 </head>
 <body>

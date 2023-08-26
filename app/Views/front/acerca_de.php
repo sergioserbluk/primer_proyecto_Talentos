@@ -1,4 +1,9 @@
-<section class="container bg-light">
+
+<!-- agrego h1 con titulo -->
+<h1 class="text-center fuente2">Nosotros</h1>
+<!-- agregue la clase container-md y my-4 -->
+<section class="container bg-light container-md  my-4">
+<!-- agregue la clase container-md y my-4 -->
 <div class="py-5 fw-bold h1 text-center"
 style="color: var(--bs-info-text-emphasis); text-decoration: underline">OBJETIVO GENERAL</div>
 <div class="py-3 h5" style="color: black">
